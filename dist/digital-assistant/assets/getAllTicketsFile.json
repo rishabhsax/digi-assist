@@ -1,0 +1,93 @@
+[
+    {
+        "ticketId": 1,
+        "query": "When will I receive my offer letter, I got selction mail on 22 June",
+        "status": "Unresolved",
+        "candidateId": 123,
+        "response": null
+    },
+    {
+        "ticketId": 2,
+        "query": "When will be my joining location?",
+        "status": "Unresolved",
+        "candidateId": 121,
+        "response": null
+    },
+    {
+        "ticketId": 3,
+        "query": "When will I get my first promotion",
+        "status": "Unresolved",
+        "candidateId": 122,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    },
+    {
+        "ticketId": 4,
+        "query": "What are the roles of a Systems Engineer?",
+        "status": "Unresolved",
+        "candidateId": 124,
+        "response": null
+    }
+]
