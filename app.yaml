@@ -1,0 +1,11 @@
+runtime: nodejs14
+
+handlers:
+- url: /
+  static_files: dist/digital-assistant/index.html
+  upload: dist/digital-assistant/index.html
+- url: /
+  static_dir: dist/digital-assistant
+ 
+manual_scaling:
+    instances: 1;
